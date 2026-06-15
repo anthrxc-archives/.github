@@ -2,9 +2,9 @@
 
 ## What is this?
 What you see here is an organization where I keep projects that I either:  
-  a. don't maintain anymore
-  b. aren't exactly a highlight reel of my work
-  c. don't want on my main profile
+  a. don't maintain anymore  
+  b. aren't exactly a highlight reel of my work  
+  c. don't want on my main profile  
 
 ## Why?
 Well, most of these projects are from when I first got into programming (feel free to make fun of the code) or ones that I'm no longer interested in developing further or maintaining.  
