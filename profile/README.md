@@ -8,7 +8,9 @@ What you see here is an organization where I keep projects that I either:
 
 ## Why?
 Well, most of these projects are from when I first got into programming (feel free to make fun of the code) or ones that I'm no longer interested in developing further or maintaining.  
+
 The reason I haven't deleted or privated these repos is to show that even someone who has no knowledge of programming can, with enough determination, successfully make whatever their heart desires come to life.  
+
 If you want to look at projects I'm actually proud of, or ones that I'm currently working on and maintaining, you can do so on [my main profile](https://github.com/anthrxc/).
 
 ## So what do you have here?
