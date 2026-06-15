@@ -18,9 +18,9 @@ If you want to look at projects I'm actually proud of, or ones that I'm currentl
 ### Discord bots
 ➔ [reaperbot](https://github.com/anthrxc-archives/reaperbot) - my first programming project, built in a single Python file, with a surprising amount of commands  
 ➔ [sinewave](https://github.com/anthrxc-archives/sinewave) - 10 minutes of work, this one played a 3600Hz sine wave tone for 30 seconds  
-➔ [pyxis](https://github.com/anthrxc-archives/pyxis) - my take on a general-purpose bot, with aspirations to cover the entire Discord API
-➔ [v12-template](https://github.com/anthrxc-archives/v12-template) - used to be a template repository for creating a Discord bot in discord.js v12
-➔ [v13-template](https://github.com/anthrxc-archives/v13-template) - same as above, only used to be discord.js v13
+➔ [pyxis](https://github.com/anthrxc-archives/pyxis) - my take on a general-purpose bot, with aspirations to cover the entire Discord API  
+➔ [v12-template](https://github.com/anthrxc-archives/v12-template) - used to be a template repository for creating a Discord bot in discord.js v12  
+➔ [v13-template](https://github.com/anthrxc-archives/v13-template) - same as above, only used to be discord.js v13  
 
 ### Websites
 
